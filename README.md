@@ -70,7 +70,7 @@ RAG-based AI chatbot for VLB Janakiammal College, answering student queries 24/7
 
 ## 📫 Let's connect
 
-📧 arunkumarml2205@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/arunkumar-murugan-5b6173274)
+📧 arunml2205@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/arunkumar-murugan-5b6173274)
 
 <p align="center"><i>Open to Junior Java Developer opportunities.</i></p>
 
